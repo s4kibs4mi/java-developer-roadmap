@@ -128,6 +128,11 @@ If you like or are using this project to learn or start your solution, please gi
        5. [Mockito](https://site.mockito.org/)
        6. [Truth](https://github.com/google/truth)
        7. [Assertj](https://joel-costigliola.github.io/assertj)
+       8. [cucumber-jvm](https://github.com/cucumber/cucumber-jvm)
+       9. [cukes](https://github.com/ctco/cukes)
+       10. [hoverfly-java](https://github.com/SpectoLabs/hoverfly-java)
+       11. [rest-assured](https://github.com/rest-assured/rest-assured)
+       12. [jbehave](https://jbehave.org/)
     2. E2E Testing
        - [Selenium](https://github.com/tebeka/selenium)
 
