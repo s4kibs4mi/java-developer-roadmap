@@ -1,6 +1,6 @@
 # Java Developer Roadmap
 
-> Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2019:
+> Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2021:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Java developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a Java developer?"
 
@@ -93,6 +93,7 @@ If you like or are using this project to learn or start your solution, please gi
       - [TinyLog](http://www.tinylog.org/)
       - [log4j](https://logging.apache.org/log4j)
    2. Log Management System
+      - [ELK Stack](https://www.elastic.co/what-is/elk-stack)
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
       - [Tracer](https://github.com/zalando/tracer)
@@ -133,6 +134,8 @@ If you like or are using this project to learn or start your solution, please gi
        10. [hoverfly-java](https://github.com/SpectoLabs/hoverfly-java)
        11. [rest-assured](https://github.com/rest-assured/rest-assured)
        12. [jbehave](https://jbehave.org/)
+       13. [Mockserver](https://www.mock-server.com)
+
     2. E2E Testing
        - [Selenium](https://github.com/tebeka/selenium)
 
