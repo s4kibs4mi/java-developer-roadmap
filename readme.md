@@ -1,18 +1,18 @@
 # Java Developer Roadmap
 
-> Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2021:
-
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Java developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a Java developer?"
 
-[中文版](./i18n/zh-CN/ReadMe-zh-CN.md)
-
 ## Disclaimer
+
+This Repository is just a fork from [s4kibs4mi](https://github.com/s4kibs4mi/java-developer-roadmap). This repository just generates a staticly available site.
+
+Here you can get to the page: [java-developer-roadmap-site](https://java-developer-roadmap-site.vercel.app/)
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
 
 ## Give a Star! :star:
 
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+If you like or are using this project to learn or start your solution, please give it a [star](https://github.com/s4kibs4mi/java-developer-roadmap). Thanks!
 
 ## Roadmap
 
