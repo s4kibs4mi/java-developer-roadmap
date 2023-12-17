@@ -54,6 +54,7 @@ If you like or are using this project to learn or start your solution, please gi
     3. [Spark](http://sparkjava.com/)
     4. [dropwizard](https://www.dropwizard.io/en/stable/)
     5. [nanohttpd](https://github.com/NanoHttpd/nanohttpd)
+    6. [Vertx](https://vertx.io/)
 
 5. Databases
 
@@ -125,6 +126,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Apache Shiro](https://shiro.apache.org/)
     - [JJWT](https://github.com/jwtk/jjwt)
     - [RxJava](https://github.com/ReactiveX/RxJava)
+    - [Quarkus](https://quarkus.io/)
 
 12. Testing
 
