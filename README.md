@@ -1,6 +1,6 @@
 # Java Developer Roadmap
 
-> Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2025:
+> Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2026:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to
 become a Java developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a Java
@@ -50,7 +50,7 @@ If you like or are using this project to learn or start your solution, please gi
 4. Web Frameworks + Routers
 
     1. [Spring](https://spring.io/)
-    2. [Play Framework](https://www.playframework.com/)
+    2. [helidon](https://helidon.io)
     3. [Spark](http://sparkjava.com/)
     4. [dropwizard](https://www.dropwizard.io/en/stable/)
     5. [nanohttpd](https://github.com/NanoHttpd/nanohttpd)
@@ -78,6 +78,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [Clickhouse](https://clickhouse.com/)
         - [InfluxDB](https://www.influxdata.com/)
         - [CouchDB](http://couchdb.apache.org/)
+        - [Weaviate](https://weaviate.io)
 
 6. ORMs
 
@@ -151,7 +152,11 @@ If you like or are using this project to learn or start your solution, please gi
     - [Sundial](https://github.com/knowm/Sundial)
     - [cron-utils](https://github.com/jmrozanec/cron-utils)
 
-14. MicroServices
+14. AI/ML/LLM
+    - [langchain4j](https://github.com/langchain4j/langchain4j)
+    - [langgraph4j](https://github.com/langgraph4j/langgraph4j)
+
+15. MicroServices
 
     1. Message-Broker
         - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
@@ -173,7 +178,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [gRPC-Java](https://github.com/grpc/grpc-java)
         - [thrift](https://thrift.apache.org/)
 
-15. [Java-Patterns](https://github.com/iluwatar/java-design-patterns)
+16. [Java-Patterns](https://github.com/iluwatar/java-design-patterns)
 
 ## Wrap Up
 
