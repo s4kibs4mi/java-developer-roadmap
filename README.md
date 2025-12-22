@@ -177,6 +177,8 @@ If you like or are using this project to learn or start your solution, please gi
         - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
         - [gRPC-Java](https://github.com/grpc/grpc-java)
         - [thrift](https://thrift.apache.org/)
+    5. Workflow Engine
+       - [Temporal](https://temporal.io)
 
 16. [Java-Patterns](https://github.com/iluwatar/java-design-patterns)
 
