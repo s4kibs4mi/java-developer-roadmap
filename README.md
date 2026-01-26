@@ -1,5 +1,7 @@
 # Java Developer Roadmap
 
+[Sponsored Promo Banner](./resources/sponsored-promo-banner.png)
+
 > Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2026:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to
@@ -178,7 +180,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [gRPC-Java](https://github.com/grpc/grpc-java)
         - [thrift](https://thrift.apache.org/)
     5. Workflow Engine
-       - [Temporal](https://temporal.io)
+        - [Temporal](https://temporal.io)
 
 16. [Java-Patterns](https://github.com/iluwatar/java-design-patterns)
 
@@ -199,6 +201,14 @@ minify that with [Compressor.io](https://compressor.io/compress)).
 - Open a pull request with improvements
 - Discuss ideas in issues
 - Spread the word
+
+## Sponsorship
+
+Interested in sponsoring this project?
+
+Get your brand in front of thousands of developers worldwide.
+
+[Become a sponsor](https://qrcn.link/java-developer-roadmap)
 
 ## License
 
