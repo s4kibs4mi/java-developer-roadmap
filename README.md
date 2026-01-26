@@ -202,12 +202,14 @@ minify that with [Compressor.io](https://compressor.io/compress)).
 - Discuss ideas in issues
 - Spread the word
 
-## Sponsorship
+## 📣 Sponsor This Project
+
+The **Java Developer Roadmap** is a high-intent learning resource used by Java and backend engineers actively upskilling
+and evaluating tools. In the last 14 days alone, it has attracted hundreds of visitors from **GitHub**, **Google Search**, and modern **AI discovery platforms (ChatGPT, Claude, Perplexity)** — meaning your brand appears where developers
+research, learn, and make decisions. Sponsorship places your product, company, or hiring message directly at the top of
+the README, positioning it as a trusted recommendation rather than an advertisement.
 
 Interested in sponsoring this project?
-
-Get your brand in front of thousands of developers worldwide.
-
 [Become a sponsor](https://qrcn.link/java-developer-roadmap)
 
 ## License
