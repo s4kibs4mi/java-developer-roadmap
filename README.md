@@ -1,6 +1,6 @@
 # Java Developer Roadmap
 
-[Sponsored Promo Banner](./resources/sponsored-promo-banner.png)
+![Sponsored Promo Banner](./resources/sponsored-promo-banner.png)
 
 > Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2026:
 
