@@ -1,7 +1,7 @@
 # Java Developer Roadmap
 
 <p align="center">
-  <img src="banner.png" alt="Subera — Deliberate Software Engineering" width="1024">
+  <img src="./resources/subera-sponsor-banner.png" alt="Subera — Deliberate Software Engineering" width="1024" height="550">
 </p>
 
 > Subera helps B2B teams design and build reliable backend systems with clean boundaries, production discipline, and
