@@ -4,7 +4,7 @@
   <img src="./resources/subera-sponsor-banner.png" alt="Subera — Deliberate Software Engineering" width="1024" height="550">
 </p>
 
-> #### Subera helps B2B teams design and build reliable backend systems with clean boundaries, production discipline, and delivery that holds up under real load. [Contact Us](https://suberahq.com?utm_source=github)
+> #### Subera is a software engineering partner for teams that need reliable backend systems, clean architecture, and production discipline from day one. [Contact Us](https://suberahq.com?utm_source=github)
 
 > Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2026:
 
