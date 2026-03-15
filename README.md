@@ -1,6 +1,11 @@
 # Java Developer Roadmap
 
-![Sponsored Promo Banner](./resources/sponsored-promo-banner.png)
+<p align="center">
+  <img src="banner.png" alt="Subera — Deliberate Software Engineering" width="1024">
+</p>
+
+> Subera helps B2B teams design and build reliable backend systems with clean boundaries, production discipline, and
+> delivery that holds up under real load. [Learn More](https://suberahq.com)
 
 > Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2026:
 
@@ -205,7 +210,8 @@ minify that with [Compressor.io](https://compressor.io/compress)).
 ## 📣 Sponsor This Project
 
 The **Java Developer Roadmap** is a high-intent learning resource used by Java and backend engineers actively upskilling
-and evaluating tools. In the last 14 days alone, it has attracted hundreds of visitors from **GitHub**, **Google Search**, and modern **AI discovery platforms (ChatGPT, Claude, Perplexity)** — meaning your brand appears where developers
+and evaluating tools. In the last 14 days alone, it has attracted hundreds of visitors from **GitHub**, **Google Search
+**, and modern **AI discovery platforms (ChatGPT, Claude, Perplexity)** — meaning your brand appears where developers
 research, learn, and make decisions. Sponsorship places your product, company, or hiring message directly at the top of
 the README, positioning it as a trusted recommendation rather than an advertisement.
 
