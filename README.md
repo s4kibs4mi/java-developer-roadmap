@@ -1,7 +1,7 @@
 # Java Developer Roadmap
 
 > 🎓 **Following this roadmap to learn Java and backend engineering?**  
-> Continue with structured courses, projects, and guided learning on **[Tarkev →](https://tarkev.com/courses?lang=en&roadmap=backend-engineering&utm_source=github&utm_medium=java-developer-roadmap&utm_campaign=roadmap)**
+> Continue with structured courses, projects, and guided learning on **[Tarkev →](https://tarkev.com/courses?lang=en&roadmap=backend-engineering&utm_source=github&utm_medium=java-developer-roadmap&utm_campaign=backend-roadmap)**
 
 > Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2026:
 
@@ -33,7 +33,7 @@ A roadmap helps you understand **what to learn**.
 
 The harder part is turning that roadmap into an actual learning journey: knowing where to start, understanding concepts deeply, building real projects, and gradually moving from Java fundamentals into backend and distributed systems engineering.
 
-That is what I am building with **[Tarkev](https://tarkev.com?utm_source=github&utm_medium=java-developer-roadmap&utm_campaign=roadmap)**.
+That is what I am building with **[Tarkev](https://tarkev.com/courses?lang=en&roadmap=backend-engineering&utm_source=github&utm_medium=java-developer-roadmap&utm_campaign=backend-roadmap)**.
 
 ### Start with Java
 
@@ -111,13 +111,16 @@ It is to understand **how production backend systems are designed, built, operat
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
       5. [Oracle](https://www.oracle.com/database/)
+
    2. Cloud Databases
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
+
    3. Search Engines
       - [ElasticSearch](https://www.elastic.co/)
       - [Opensearch](https://opensearch.org/)
       - [Algolia](https://www.algolia.com/)
+
    4. NoSQL
       - [MongoDB](https://www.mongodb.com/)
       - [Redis](https://redis.io/)
@@ -148,6 +151,7 @@ It is to understand **how production backend systems are designed, built, operat
       - [Zap](https://github.com/uber-Java/zap)
       - [TinyLog](http://www.tinylog.org/)
       - [log4j](https://logging.apache.org/log4j)
+
    2. Log Management System
       - [ELK Stack](https://www.elastic.co/what-is/elk-stack)
       - [Sentry.io](http://sentry.io)
@@ -165,6 +169,7 @@ It is to understand **how production backend systems are designed, built, operat
    1. REST
       - [okhttp](https://square.github.io/okhttp/)
       - [retrofit](https://square.github.io/retrofit/)
+
    2. [GraphQL](https://graphql.org/)
 
 11. Good to Know
@@ -212,9 +217,11 @@ It is to understand **how production backend systems are designed, built, operat
       - [Apache Kafka](https://kafka.apache.org/)
       - [ActiveMQ](https://github.com/apache/activemq)
       - [Apache Pulsar](https://pulsar.apache.org/)
+
    2. Message-Bus
       - [mbassador](https://github.com/bennidi/mbassador)
       - [rmq](https://github.com/xetorthio/rmq)
+
    3. Frameworks
       - [Apollo](https://spotify.github.io/apollo/)
       - [lagom-framework](https://www.lightbend.com/lagom-framework)
@@ -222,10 +229,12 @@ It is to understand **how production backend systems are designed, built, operat
       - [eureka](https://github.com/Netflix/eureka)
       - [helidon](https://helidon.io/#/)
       - [armeria](https://github.com/line/armeria)
+
    4. RPC
       - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
       - [gRPC-Java](https://github.com/grpc/grpc-java)
       - [thrift](https://thrift.apache.org/)
+
    5. Workflow Engine
       - [Temporal](https://temporal.io)
 
