@@ -62,50 +62,6 @@ You will learn:
 
 Once you are comfortable with Java, continue through the **Tarkev Backend Engineering Roadmap**.
 
-The learning path progresses through:
-
-**Java Fundamentals**
-
-↓
-
-**Java Backend Development**
-
-↓
-
-**Spring Boot & APIs**
-
-↓
-
-**Databases & Persistence**
-
-↓
-
-**Testing & Production Engineering**
-
-↓
-
-**Kafka & Event-Driven Architecture**
-
-↓
-
-**Distributed Systems**
-
-↓
-
-**Caching & Resilience**
-
-↓
-
-**Observability & SLOs**
-
-↓
-
-**Kubernetes & Deployment**
-
-↓
-
-**Performance, Scalability & System Design**
-
 The goal is not simply to learn frameworks.
 
 It is to understand **how production backend systems are designed, built, operated, and evolved**.
